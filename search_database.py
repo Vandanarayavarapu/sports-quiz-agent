@@ -3,7 +3,7 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 
 # Connect to ChromaDB
-client = chromadb.PersistentClient(path="chroma_db")
+client = chromadb.PersistentClient(path="./database")
 
 # Load embedding model
 model = SentenceTransformer("all-MiniLM-L6-v2")
