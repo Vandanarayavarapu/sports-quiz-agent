@@ -22,4 +22,4 @@ if st.button("Generate Quiz"):
     st.subheader("Your Quiz")
 
     quiz = generate_quiz(sport, difficulty)
-    st.markdown(quiz)
+    st.text(quiz)
