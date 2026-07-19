@@ -1,0 +1,17 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "India won the ICC Cricket World Cup in 2011.",
+    "year": "2011"
+  },
+  {
+    "sport": "Football",
+    "fact": "Argentina won the FIFA World Cup in 2022.",
+    "year": "2022"
+  },
+  {
+    "sport": "Badminton",
+    "fact": "India won the Thomas Cup title in 2022.",
+    "year": "2022"
+  }
+]
