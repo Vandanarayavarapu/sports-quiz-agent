@@ -24,15 +24,14 @@ def generate_quiz(sport, difficulty):
     option_c = facts[2] if len(facts) > 2 else "No information"
 
     quiz_text = f"""
-# 🏏 AI Sports Quiz Generator
+# AI Sports Quiz Generator
 
-**Sport:** {sport}  
-**Difficulty:** {difficulty}
-
+Sport: {sport}  
+Difficulty: {difficulty}
 
 ## Question 1:
-Which fact is related to {sport}?
 
+Which fact is related to {sport}?
 
 A. {option_a}
 
@@ -43,17 +42,16 @@ C. {option_c}
 D. None of these
 
 
-**Correct Answer: A**
+Correct Answer: A
 
-**Explanation:**  
+Explanation:  
 The answer is generated using retrieved sports knowledge from ChromaDB.
-
 
 ---
 
 ## Question 2:
-Which information is related to {sport}?
 
+Which information is related to {sport}?
 
 A. {option_b}
 
@@ -64,17 +62,16 @@ C. Unknown information
 D. None of these
 
 
-**Correct Answer: A**
+Correct Answer: A
 
-**Explanation:**  
+Explanation:  
 The answer is generated from the retrieved sports facts.
-
 
 ---
 
 ## Question 3:
-Choose the correct sports fact:
 
+Choose the correct sports fact:
 
 A. {option_c}
 
@@ -85,17 +82,16 @@ C. Unknown information
 D. Not related
 
 
-**Correct Answer: A**
+Correct Answer: A
 
-**Explanation:**  
+Explanation: 
 The information is retrieved from ChromaDB.
-
 
 ---
 
 ## Question 4:
-Which option contains sports information?
 
+Which option contains sports information?
 
 A. {option_a}
 
@@ -106,17 +102,16 @@ C. Unknown information
 D. None of these
 
 
-**Correct Answer: A**
+Correct Answer: A
 
-**Explanation:**  
+Explanation:  
 The answer comes from the sports knowledge database.
-
 
 ---
 
 ## Question 5:
-Select the correct statement:
 
+Select the correct statement:
 
 A. {option_b}
 
@@ -127,9 +122,9 @@ C. Unknown information
 D. Not related
 
 
-**Correct Answer: A**
+Correct Answer: A
 
-**Explanation:**  
+Explanation:  
 The quiz is created using retrieved sports information.
 
 """
