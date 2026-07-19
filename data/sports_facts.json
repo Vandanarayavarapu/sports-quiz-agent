@@ -1,17 +1,49 @@
 [
   {
     "sport": "Cricket",
-    "fact": "India won the ICC Cricket World Cup in 2011.",
-    "year": "2011"
+    "fact": "India won the ICC Cricket World Cup in 2011."
   },
   {
-    "sport": "Football",
-    "fact": "Argentina won the FIFA World Cup in 2022.",
-    "year": "2022"
+    "sport": "Cricket",
+    "fact": "Virat Kohli is one of the most famous Indian cricket players."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "The Indian Premier League is a popular T20 cricket tournament."
+  },
+
+  {
+    "sport": "Badminton",
+    "fact": "India won the Thomas Cup badminton title in 2022."
   },
   {
     "sport": "Badminton",
-    "fact": "India won the Thomas Cup title in 2022.",
-    "year": "2022"
+    "fact": "P. V. Sindhu won a silver medal at the 2016 Rio Olympics."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "Saina Nehwal won a bronze medal at the 2012 London Olympics."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "The All England Open Badminton Championships is one of the oldest badminton tournaments."
+  },
+
+  {
+    "sport": "Football",
+    "fact": "Argentina won the FIFA World Cup in 2022."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup is an international football tournament."
+  },
+
+  {
+    "sport": "Tennis",
+    "fact": "Novak Djokovic has won multiple Grand Slam titles."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Wimbledon is one of the most famous tennis tournaments."
   }
 ]
